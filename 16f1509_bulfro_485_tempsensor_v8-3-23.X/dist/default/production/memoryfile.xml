@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\16f1509_bulfro_485_tempsensor_v8-3-23.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>4096</length>
+      <used>1333</used>
+      <free>2763</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>256</length>
+      <used>127</used>
+      <free>129</free>
+    </memory>
+  </executable>
+</project>
